@@ -128,7 +128,7 @@ if (t1<=20 && t1>0)
 
       tmrpcm.play("1.wav");
 
-      Serial.println("1 baj rha hai");
+      Serial.println("Sensor 1 is playing the sound!");
 
      delay(1200);
 
@@ -158,7 +158,7 @@ if (t2<=20 && t2>0)
 
       tmrpcm.play("2.wav");
 
-      Serial.println("2 baj rha hai");
+      Serial.println("Sensor 2 is playing the sound!");
 
       delay(1200);
 
@@ -196,7 +196,7 @@ if (t3<=20 && t3>0)
 
       tmrpcm.play("3.wav");
 
-      Serial.println("3 baj rha hai");
+      Serial.println("Sensor 3 is playing the sound!");
 
       delay(1200);
 
@@ -226,7 +226,7 @@ if (t4<=20 && t4>0)
 
       tmrpcm.play("4.wav");
 
-      Serial.println("4 baj rha hai");
+      Serial.println("Sensor 4 is playing the sound!");
 
       delay(1200);
 
@@ -262,7 +262,7 @@ if (t5<=20 && t5>0)
 
       tmrpcm.play("5.wav");
 
-      Serial.println("5 baj rha hai");
+      Serial.println("Sensor 5 is playing the sound!");
 
      delay(1200);
 
@@ -292,7 +292,7 @@ if (t6<37 && t6>0)
 
       tmrpcm.play("6.wav");
 
-      Serial.println("6 baj rha hai");
+      Serial.println("Sensor 6 is playing the sound!");
 
       delay(1200);
 
@@ -326,7 +326,7 @@ if (t7<=20 && t7>0)
 
       tmrpcm.play("7.wav");
 
-      Serial.println("7 baj rha hai");
+      Serial.println("Sensor 7 is playing the sound!");
 
      delay(12+00);
 

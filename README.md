@@ -4,6 +4,6 @@ A euphoric user human-computer interaction experience which literally enables yo
 
 The project is completely made using the Arduino and Basic Ultrasonic Sensors and some basic libraries to play the sounds.
 My teammates :
-Ishan Sharma (@gonnadothat)
-Vrinda Singhal
-Himanshu Vashisht
+1) Ishan Sharma 
+2) Vrinda Singhal
+3) Himanshu Vashisht
